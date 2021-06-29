@@ -5,10 +5,13 @@ repo: common-uptime # The name of this repository
 sites:
   - name: Forbrukerrådet
     url: https://www.forbrukerradet.no/
+    icon: https://fil.forbrukerradet.no/static/1.0/wp-content/themes/fr/img/icons/favicon.ico
   - name: Finansportalen
-    url: https://www.finansportalen.no  
+    url: https://www.finansportalen.no
+    icon: https://fil.forbrukerradet.no/static/1.0/wp-content/themes/fr/img/icons/favicon.ico
   - name: Strømpris
     url: https://www.strompris.no
+    icon: https://www.strompris.no/wp-content/uploads/2016/06/strompris_favicon.ico
   
 assignees:
   - frelof
