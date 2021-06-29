@@ -1,3 +1,56 @@
 [
-    {}
+  {
+    "name": "Forbrukerrådet",
+    "url": "https://www.forbrukerradet.no/",
+    "icon": "https://favicons.githubusercontent.com/www.forbrukerradet.no",
+    "slug": "forbrukerradet",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 813,
+    "timeDay": 813,
+    "timeWeek": 813,
+    "timeMonth": 813,
+    "timeYear": 813,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Finansportalen",
+    "url": "https://www.finansportalen.no",
+    "icon": "https://favicons.githubusercontent.com/www.finansportalen.no",
+    "slug": "finansportalen",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 810,
+    "timeDay": 810,
+    "timeWeek": 810,
+    "timeMonth": 810,
+    "timeYear": 810,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Strømpris",
+    "url": "https://www.strompris.no",
+    "icon": "https://favicons.githubusercontent.com/www.strompris.no",
+    "slug": "strompris",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 732,
+    "timeDay": 732,
+    "timeWeek": 732,
+    "timeMonth": 732,
+    "timeYear": 732,
+    "dailyMinutesDown": {}
+  }
 ]
