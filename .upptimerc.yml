@@ -12,7 +12,10 @@ sites:
   - name: Strømpris
     url: https://www.strompris.no
     icon: https://www.strompris.no/wp-content/uploads/2016/06/strompris_favicon.ico
-  
+  - name: Hva koster tannlegen
+    url: https://www.hvakostertannlegen.no/
+    icon: https://fil.forbrukerradet.no/static/1.0/wp-content/themes/fr/img/icons/favicon.ico
+
 assignees:
   - frelof
 status-website:
