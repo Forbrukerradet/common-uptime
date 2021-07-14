@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 838,
-    "timeDay": 1033,
-    "timeWeek": 829,
-    "timeMonth": 838,
-    "timeYear": 838,
+    "time": 836,
+    "timeDay": 1009,
+    "timeWeek": 826,
+    "timeMonth": 836,
+    "timeYear": 836,
     "dailyMinutesDown": {
       "2021-07-01": 8
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 812,
-    "timeDay": 1105,
-    "timeWeek": 885,
-    "timeMonth": 812,
-    "timeYear": 812,
+    "time": 808,
+    "timeDay": 991,
+    "timeWeek": 872,
+    "timeMonth": 808,
+    "timeYear": 808,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 793,
-    "timeDay": 811,
-    "timeWeek": 776,
-    "timeMonth": 793,
-    "timeYear": 793,
+    "time": 789,
+    "timeDay": 800,
+    "timeWeek": 775,
+    "timeMonth": 789,
+    "timeYear": 789,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://fil.forbrukerradet.no/static/1.0/wp-content/themes/fr/img/icons/favicon.ico",
     "slug": "hvakostertannlegen",
     "status": "down",
-    "uptime": "70.35%",
-    "uptimeDay": "70.35%",
-    "uptimeWeek": "70.35%",
-    "uptimeMonth": "70.35%",
-    "uptimeYear": "70.35%",
+    "uptime": "99.52%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-13": 0
+      "2021-07-13": 4
     }
   }
 ]
