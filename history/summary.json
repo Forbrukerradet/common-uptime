@@ -4,9 +4,9 @@
     "url": "https://www.forbrukerradet.no/",
     "icon": "https://fil.forbrukerradet.no/static/1.0/wp-content/themes/fr/img/icons/favicon.ico",
     "slug": "forbrukerradet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 957,
     "timeYear": 895,
     "dailyMinutesDown": {
+      "2021-09-23": 0,
       "2021-07-01": 8
     }
   },
