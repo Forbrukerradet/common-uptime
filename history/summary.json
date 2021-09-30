@@ -43,9 +43,9 @@
     "url": "https://www.strompris.no",
     "icon": "https://www.strompris.no/wp-content/uploads/2016/06/strompris_favicon.ico",
     "slug": "strompris",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,7 +54,9 @@
     "timeWeek": 892,
     "timeMonth": 830,
     "timeYear": 798,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-30": 0
+    }
   },
   {
     "name": "Hvakostertannlegen",
