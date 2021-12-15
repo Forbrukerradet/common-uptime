@@ -69,9 +69,9 @@
     "url": "https://www.hvakostertannlegen.no/",
     "icon": "https://fil.forbrukerradet.no/static/1.0/wp-content/themes/fr/img/icons/favicon.ico",
     "slug": "hvakostertannlegen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -81,6 +81,7 @@
     "timeMonth": 191,
     "timeYear": 196,
     "dailyMinutesDown": {
+      "2021-12-15": 0,
       "2021-07-13": 4
     }
   }
