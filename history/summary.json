@@ -34,9 +34,9 @@
     "url": "https://www.finansportalen.no",
     "icon": "https://fil.forbrukerradet.no/static/1.0/wp-content/themes/fr/img/icons/favicon.ico",
     "slug": "finansportalen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -45,7 +45,9 @@
     "timeWeek": 800,
     "timeMonth": 784,
     "timeYear": 839,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-22": 0
+    }
   },
   {
     "name": "Strømpris",
